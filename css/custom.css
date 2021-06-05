@@ -1,0 +1,24 @@
+.carousel-item {
+  height: 100vh;
+  width: 100%;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  background-size: cover;
+}
+
+.carousel-item * > h5 {
+  background: rgba(255, 255, 255, 0.5);
+  padding: .5rem;
+  border-radius: .5rem;
+}
+
+.carousel-item * > p {
+  max-width: 500px;
+  line-height: 1.8;
+}
+
+@media screen and (max-width: 664px) {
+  .carousel-item * > p {
+    max-width: 300px;
+  }
+}
