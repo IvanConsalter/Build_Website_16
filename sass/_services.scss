@@ -1,0 +1,25 @@
+.nav-pills {
+
+    & .nav-link {
+
+        color: #000;
+        font-weight: bold;
+        letter-spacing: .2rem;
+
+        &.active{
+            
+            background: #198754 !important;
+
+        }
+        
+    }
+
+    & .show {
+
+        &>.nav-link {
+
+            background: #198754 !important;
+
+        }
+    }
+}

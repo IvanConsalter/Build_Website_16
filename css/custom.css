@@ -22,3 +22,17 @@
     max-width: 300px;
   }
 }
+
+.nav-pills .nav-link {
+  color: #000;
+  font-weight: bold;
+  letter-spacing: .2rem;
+}
+
+.nav-pills .nav-link.active {
+  background: #198754 !important;
+}
+
+.nav-pills .show > .nav-link {
+  background: #198754 !important;
+}
