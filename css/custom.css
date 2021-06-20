@@ -37,6 +37,10 @@
   background: #198754 !important;
 }
 
+.tab-content .card {
+  margin: auto;
+}
+
 .solutions {
   width: 100%;
   height: 100vh;
@@ -45,4 +49,11 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+}
+
+@media screen and (max-width: 758px) {
+  .solutions {
+    height: auto;
+    padding: 1rem 1rem;
+  }
 }
