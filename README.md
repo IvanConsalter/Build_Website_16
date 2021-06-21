@@ -16,4 +16,8 @@ https://templatemo.com/ :+1:
 ![](https://img.shields.io/badge/-Sass-%23cd669a)
 ![](https://img.shields.io/badge/-Bootstrap-%23563d7c)
 
+## Layout
+
+![bootstrap project 02](https://user-images.githubusercontent.com/50461475/122812307-e64b5480-d2a7-11eb-96d9-3204034b63a9.png)
+
 
